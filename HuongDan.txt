@@ -1,1 +1,3 @@
-test123
+t?i v? m? lên trong visual code -> m? temenal lên gõ l?nh npm i d? t?i thu vi?n
+-> t?i xong gõ ti?p l?nh npm start d? ch?y
++ không c?n m? xammp vì không có k?t n?i CSDL
